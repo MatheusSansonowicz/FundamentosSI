@@ -42,7 +42,10 @@ Exemplos de provedores de PaaS incluem o Heroku, o Google App Engine, o Microsof
  - BaaS: ("Banking as a service", "Bank as a Service" ou Banco como serviço)
 
  Um modelo de computação em nuvem que fornece recursos de backend prontos para uso para aplicativos móveis e web. Isso inclui recursos como armazenamento em nuvem, autenticação de usuários, gerenciamento de banco de dados, notificações push e integração de API. Nele, os desenvolvedores podem criar aplicativos sem precisar se preocupar com o desenvolvimento do backend. Eles podem se concentrar na criação de experiências de usuário atraentes e deixar o provedor de BaaS gerenciar o backend. Isso permite que os desenvolvedores criem aplicativos rapidamente e com menos esforço, economizando tempo e dinheiro.
+ Firebase do Google, o AWS Amplify, o Kinvey da Progress, o Back4App e o Backendless são exemplos de fornecedores de BaaS.
 
- - HaaS: Hardware as a Service, é uma modalidade que permite empresas ou pessoas utilizarem recursos de hardware como capacidade de processamento, impressão, áreas de armazenamento como um serviço de rede,
+ - HaaS: ("Hardware as a Service" ou Hardware como serviço),
+ 
+ Um modelo de negócio em que empresas fornecem hardware de TI para os clientes como um serviço. Isso pode incluir servidores, armazenamento, redes e outros dispositivos de infraestrutura. Alguns provedores de HaaS são a Dell, a HP e a Lenovo.
 
-Backend: Parte de um aplicativo ou sistema de software que lida com a lógica de negócios, gerenciamento de dados, processamento de solicitações e outras tarefas relacionadas ao servidor
+Backend: Parte de um aplicativo ou sistema de software que lida com a lógica de negócios, gerenciamento de dados, processamento de solicitações e outras tarefas relacionadas ao servidor.
