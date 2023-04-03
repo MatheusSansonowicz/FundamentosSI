@@ -48,4 +48,11 @@ Exemplos de provedores de PaaS incluem o Heroku, o Google App Engine, o Microsof
  
  Um modelo de negócio em que empresas fornecem hardware de TI para os clientes como um serviço. Isso pode incluir servidores, armazenamento, redes e outros dispositivos de infraestrutura. Alguns provedores de HaaS são a Dell, a HP e a Lenovo.
 
-Backend: Parte de um aplicativo ou sistema de software que lida com a lógica de negócios, gerenciamento de dados, processamento de solicitações e outras tarefas relacionadas ao servidor.
+- Backend: Parte de um aplicativo ou sistema de software que lida com a lógica de negócios, gerenciamento de dados, processamento de solicitações e outras tarefas relacionadas ao servidor.
+
+- Microsserviço:
+
+ São um tipo de arquitetura de software que consiste em dividir um sistema em vários componentes menores e independentes, cada um responsável por uma tarefa específica. Cada microsserviço é executado em seu próprio processo e pode ser desenvolvido, implantado e escalado independentemente dos outros componentes.
+ Essa abordagem permite que os desenvolvedores trabalhem em pequenas equipes para projetar, implementar e implantar componentes específicos do sistema. Além disso, os microsserviços são escaláveis e resilientes, pois, se um microsserviço falhar, não afetará todo o sistema.
+ No entanto, a abordagem de microsserviços também apresenta desafios, como a complexidade da comunicação entre os serviços e a necessidade de garantir a consistência dos dados entre os diferentes serviços. É importante que os desenvolvedores planejem cuidadosamente a arquitetura do sistema para garantir a eficácia e a eficiência dos microsserviços.
+ Um microserviço pode se aplicar praticamente em qualquer site e aplicação web por exemplo, quando você pesquisa em um app de compras e recebe os resultados por exemplo, vai ser um microserviços, assim como os recomendados e a adição ao carrinho de compras poderão ser outros.
